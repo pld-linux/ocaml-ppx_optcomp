@@ -14,7 +14,7 @@ Version:	0.14.3
 Release:	1
 License:	MIT
 Group:		Libraries
-#Source0Download: https://github.com/janestreet/ppx_optcomp
+#Source0Download: https://github.com/janestreet/ppx_optcomp/tags
 Source0:	https://github.com/janestreet/ppx_optcomp/archive/v%{version}/ppx_optcomp-%{version}.tar.gz
 # Source0-md5:	2d012df62dd0bc82d2ea4ab25b628992
 URL:		https://github.com/janestreet/ppx_optcomp
